@@ -1,0 +1,16 @@
+# Directories
+__pycache__/
+build/
+GanAPI.egg-info/
+data/train_loaders/info_gathering/chunks
+data/train_loaders/intrusion/chunks
+data/train_loaders/malware/chunks
+data/train_loaders/manipulated_content/chunks
+data/test_loaders/info_gathering/chunks
+data/test_loaders/intrusion/chunks
+data/test_loaders/malware/chunks
+data/test_loaders/manipulated_content/chunks
+test_env/logs
+
+# Files
+test_env/report.json
