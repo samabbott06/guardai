@@ -17,7 +17,7 @@ Identify, analyze, and propose mitigation strategies for the various cyber attac
 
 # Project Background & Motivations
 ## Previous Projects
-This project is the first of several, and serves as the foundation for continuation projects by future student groups at WWU for the NUWC.
+This project is the first of several iterations, and serves as the foundation for continuation projects by future student groups at WWU for the NUWC.
 
 ## Project Focus: Prompt Injection
 - Motivating factors
